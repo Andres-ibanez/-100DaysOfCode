@@ -7,3 +7,4 @@
 <p>Day5: Review CSS Grid and Flex</p>
 <p>Day6: I began Bootstrap project</p>
 <p>Day7: JavaScript principles (variables, arrays, loops)</p>
+<p>Day8: Today I made a JavaScript project, paragraph change the color when you play in codepen.io</p>
