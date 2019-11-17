@@ -8,3 +8,4 @@
 <p>Day6: I began Bootstrap project <a href="https://codepen.io/Andres-Ibanez/pen/ExxppKp">Project Day6</a></p></p>
 <p>Day7: JavaScript principles (variables, arrays, loops)</p>
 <p>Day8: Today I made a JavaScript project, paragraph change the color when you play in codepen.io <a href="https://codepen.io/Andres-Ibanez/pen/KKKroqd">Project Day8</a></p>
+<p>Today I participated an event TI (DevFest CDE2019) and began to read a book "Clean Code" by robert C. Martin</p>
