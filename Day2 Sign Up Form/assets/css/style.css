@@ -1,0 +1,77 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+
+input,
+select {
+  background-color: #eee;
+  border: none;
+  padding: 10px 15px;
+  margin: 5px 0;
+  line-height: 1.2;
+}
+
+label,
+h1,
+p,
+.option {
+  color: #fff;
+}
+
+label {
+  font-size: 1.2rem;
+}
+
+label,
+input,
+select,
+.option {
+  margin-bottom: 5px;
+}
+
+.button {
+  max-width: 50%;
+  position: relative;
+  left: 25%;
+  margin: 15px 0;
+  border-radius: 20px;
+  border: 1px solid #ff4b2b;
+  background-color: #ff4b2b;
+  color: #ffffff;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 12px 45px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.button:active {
+  transform: scale(0.95);
+}
+
+.container {
+  background-color: #10233c;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  max-width: 750px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.principal {
+  font-weight: bold;
+  text-align: center;
+}
+
+.option label {
+  padding-right: 15px;
+}
+
+#form {
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Sign Up Form</title>
+</head>
+
+<body>
+    <section class="container">
+        <div class="principal">
+            <h1>Hello, Friend!</h1>
+            <p>Enter your personal details and start journey with us</p>
+        </div>
+        <form id="form">
+            <label for="name">Name</label>
+            <input type="text" id="surname" placeholder="Your name here" required>
+            <label for="email">Email</label>
+            <input type="email" id="email" placeholder="pepito@email.com" required>
+            <label for="age">Age</label>
+            <input type="text" id="age">
+            <label for="password">Password</label>
+            <input type="password" id="password" placeholder="Password">
+            <label for="name">Gender</label>
+            <div class="option">
+                <input type="radio" name="gender" id="Male">
+                <label for="Male">Male</label>
+                <input type="radio" name="gender">
+                <label for="female">Female</label>
+                <input type="radio" name="gender">
+                <label for="other">Other</label>
+            </div>
+            <label for="" id="hobbies">What do you like?</label>
+            <select name="hobbies" id="hobbies">
+                <option value="sport">Sports</option>
+                <option value="technology">Technology</option>
+                <option value="news">News</option>
+            </select>
+            <button class="button">Sing up</button>
+        </form>
+    </section>
+</body>
+
+</html>
