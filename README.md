@@ -11,3 +11,4 @@
 <p>Day9: Today I participated an event TI (DevFest CDE2019) and began to read a book "Clean Code" by robert C. Martin</p>
 <p>Day10: Today I studied little today, I had a headache but I started a project "chronometer" tomorrow I'll finish it in codepen.io <a href="https://codepen.io/Andres-Ibanez/pen/MWWzMNm">Project Day10</a></p>
 <p>Day11: Today I finish the "chronometer" ou "timer" project and I uploaded all projects Here</p>
+<p>Day12: Today I saw a review concepts in udemy's course. I began my presentation about how to contribute in open source project when you are starter using Git/GitHub</p>
