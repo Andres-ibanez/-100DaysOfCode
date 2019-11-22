@@ -13,3 +13,4 @@
 <p>Day11: Today I finish the "chronometer" ou "timer" project and I uploaded all projects Here</p>
 <p>Day12: Today I saw a review concepts in udemy's course. I began my presentation about how to contribute in open source project when you are starter using Git/GitHub</p>
 <p>Day13: Today I made a calculator project in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/gOOqQwv">Project Day13</a></p>
+<p>Day14: Today I studied Array Methods and practice a little</p>
