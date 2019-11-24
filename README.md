@@ -15,3 +15,4 @@
 <p>Day13: Today I made a calculator project in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/gOOqQwv">Project Day13</a></p>
 <p>Day14: Today I studied Array Methods and practice a little</p>
 <p>Day15: Today I saw some videos, and I read a lot the book "Clean Code" by robert C. Martin</p>
+<p>Day16: Today I a little busy, but a review some javascript concepts, before I advance.</p>
