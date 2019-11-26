@@ -16,3 +16,5 @@
 <p>Day14: Today I studied Array Methods and practice a little</p>
 <p>Day15: Today I saw some videos, and I read a lot the book "Clean Code" by robert C. Martin</p>
 <p>Day16: Today I a little busy, but a review some javascript concepts, before I advance.</p>
+<p>Day17: Today I studied DOM manipulation and events, continue reading too. I share this with you "...spending time keeping your code clean is not just cost effective, it's a matter of professional survival"</p>
+<p>Day18: Today I began a "To do list" project</p>
