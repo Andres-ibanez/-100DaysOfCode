@@ -18,3 +18,4 @@
 <p>Day16: Today I a little busy, but a review some javascript concepts, before I advance.</p>
 <p>Day17: Today I studied DOM manipulation and events, continue reading too. I share this with you "...spending time keeping your code clean is not just cost effective, it's a matter of professional survival"</p>
 <p>Day18: Today I began a "To do list" project</p>
+<p>Day19: Today I finish a "To do list" project in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/dyyBmPr">Project Day18-19</a></p>
