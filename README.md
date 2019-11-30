@@ -20,3 +20,5 @@
 <p>Day18: Today I began a "To do list" project</p>
 <p>Day19: Today I finish a "To do list" project in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/dyyBmPr">Project Day18-19</a></p>
 <p>Day20: Today I studyed localStorage, I pretend add it to my "To do list" project. I review git/GitHub and finish my apresentation for tomorrow</p>
+<p>Day21 and Day22: I participed in the Latinoware, I spoke about Git/GitHub, was a great experience.</p>
+<p>Day23: Today I studied three function concepts "closures, currying and compose"</p>
