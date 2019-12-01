@@ -22,3 +22,4 @@
 <p>Day20: Today I studyed localStorage, I pretend add it to my "To do list" project. I review git/GitHub and finish my apresentation for tomorrow</p>
 <p>Day21 and Day22: I participed in the Latinoware, I spoke about Git/GitHub, was a great experience.</p>
 <p>Day23: Today I studied three function concepts "closures, currying and compose"</p>
+<p>Day23: Today I began Advent of Code 2019</p>
