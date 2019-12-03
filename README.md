@@ -23,3 +23,4 @@
 <p>Day21 and Day22: I participed in the Latinoware, I spoke about Git/GitHub, was a great experience.</p>
 <p>Day23: Today I studied three function concepts "closures, currying and compose"</p>
 <p>Day24: Today I began Advent of Code 2019</p>
+<p>Day25: Today I studied map, reduce and filter. I made some exercises from ZTM</p>
