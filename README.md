@@ -1,5 +1,6 @@
 <h1>#100DaysOfCode</h1>
 <h2>Web development #100DaysOfCode</h2>
+<p>Este repositorio contiene una lista de proyectos y temas de estudio iniciados para una secuencia de estudio de 100 dias </p>
 <p>Day1: HTML tags and CSS properties</p>
 <p>Day2: Practice HTML and CSS with project "Sign Up Form" in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/yLLEZBY">Project Day2</a></p>
 <p>Day3: Develop quickly project CSS Flexbox in codepen.io <a href="https://codepen.io/Andres-Ibanez/full/jOOpNOO">Project Day3</a></p></p>
@@ -25,3 +26,5 @@
 <p>Day24: Today I began Advent of Code 2019</p>
 <p>Day25: Today I studied map, reduce and filter. I made some exercises from ZTM. I completed Day2 Advent of Code 2019</p>
 <p>Day25: Today I studied includes, padEnd, padStart.</p>
+
+<p>Retomando Day26: Actualizando repositorio</p>
